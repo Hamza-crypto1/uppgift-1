@@ -1,2 +1,21 @@
-# Auto detect text files and perform LF normalization
+<!doctype html>
+<html>
+     <head>
+         <title>Uppgift1</title>
+     </head>
+<body>
+    <h1>Uppgift1</h1>
+<h2>Hamza</h2>
+<p>jag heter Hamza och är 17 år gammal. jag fyller år den 15 april. jag gillar spela spel och hänga med väner.
+
+</p>
+<h3>EEDAT24</h3>
+<p>jag valt eedat för att jag gillar datorer och tycker det är kul</p>
+<p>jag hoppas att jag kan lära mig mycket från den här kursen. så jag kan använda det i framtiden</p>
+<p>här är bild och länk
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpUUMGqKGYf8EAFL9vYannphnCMYmScCKEwA&s" alt="teknikum">
+<a href="https://teknikum.se/">teknikum</a>
+</p>
+</body>
+</html># Auto detect text files and perform LF normalization
 * text=auto
